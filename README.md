@@ -33,4 +33,5 @@ Penultimate-Year Computer Engineering Student | AI/ML | Data Analytics | Web Dev
 
 
 ## 📫 Connect With Me
+Linkedin : https://www.linkedin.com/in/komal-kumari-a10476289/
 
