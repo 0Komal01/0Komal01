@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name> 👋
+# Hi, I'm Komal Kumari 👋
 Penultimate-Year Computer Engineering Student | AI/ML | Data Analytics | Web Dev | .NET
 
 
