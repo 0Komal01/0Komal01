@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm <Your Name> 👋
+Penultimate-Year Computer Engineering Student | AI/ML | Data Analytics | Web Dev | .NET
 
-<!--
-**0Komal01/0Komal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Short paragraph about your goals, interests, and what you're learning.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+(Add small badges)
+Python | React | Node.js | Java | .NET | MongoDB | SQL | AI/ML Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Project Name – short description + link
+- Another Project – short description + link
+
+## 📫 Connect With Me
+Your LinkedIn | Portfolio | Email
