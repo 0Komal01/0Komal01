@@ -11,10 +11,11 @@ Penultimate-Year Computer Engineering Student | AI/ML | Data Analytics | Web Dev
 
 🛠️ **Technologies I work with:**
 
-* **MERN Stack** (MongoDB, Express, React, Node.js)
+* **Android Applications** using Kotlin language
 * **.NET** for backend and full-stack applications
 * **Python** (Data Analytics, Machine Learning, Automation)
 * **Java** & **Data Structures & Algorithms** for problem-solving
+* **MERN Stack** (MongoDB, Express, React, Node.js)
 * SQL, MongoDB, REST APIs, and various developer tools
 
 🚀 I’m constantly learning, improving, and building—whether it's contributing to open-source projects, creating new applications, or improving my skills in AI/ML and data-driven development.
