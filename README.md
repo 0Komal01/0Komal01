@@ -31,9 +31,6 @@ Penultimate-Year Computer Engineering Student | AI/ML | Data Analytics | Web Dev
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 
-## 📌 Projects
-
-
 ## 📫 Connect With Me
 Linkedin : https://www.linkedin.com/in/komal-kumari-a10476289/
 
