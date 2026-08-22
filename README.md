@@ -1,26 +1,38 @@
 # Hi, I'm Komal Kumari 👋
-Penultimate-Year Computer Engineering Student | AI/ML | Data Analytics | Web Dev | .NET
 
+### Final-Year Computer Engineering Student | AI/ML | Deep Learning | NLP | Computer Vision
 
 ---
+
 ## 🚀 About Me
 
-👋 Hi! I’m a **Penultimate-Year Computer Engineering student at Marwadi University**, driven by curiosity and a passion for building impactful, real-world tech solutions. I’m deeply interested in **AI/ML, data analytics, backend engineering, and full-stack development**, and I enjoy exploring how intelligent systems and efficient software come together to solve complex problems.
+I'm a **Final-Year Computer Engineering student at Marwadi University** with a strong interest in **Artificial Intelligence and Machine Learning**.
 
-💡 I love working on projects that challenge my thinking—whether it’s analyzing data, creating smart systems, or developing scalable web applications. I’m also actively involved in **research**, where I get to explore new ideas, experiment, and push my technical understanding further.
+I enjoy building and researching AI solutions in **Machine Learning, Deep Learning, NLP, Computer Vision, Federated Learning, and Explainable AI**. My work focuses on applying AI to real-world problems such as **deepfake detection, intelligent screening, and privacy-preserving AI**.
 
-🛠️ **Technologies I work with:**
+🔬 Currently involved in **AI/ML research**, with multiple research papers and a book chapter under review.
 
-* **Android Applications** using Kotlin language
-* **.NET** for backend and full-stack applications
-* **Python** (Data Analytics, Machine Learning, Automation)
-* **Java** & **Data Structures & Algorithms** for problem-solving
-* **MERN Stack** (MongoDB, Express, React, Node.js)
-* SQL, MongoDB, REST APIs, and various developer tools
+### 🛠️ Technologies
 
-🚀 I’m constantly learning, improving, and building—whether it's contributing to open-source projects, creating new applications, or improving my skills in AI/ML and data-driven development.
+- Python, Java, C
+- PyTorch, Transformers
+- Machine Learning & Deep Learning
+- NLP & Computer Vision
+- Federated Learning & Explainable AI
+- SQL, Git, GitHub
 
-📚 Outside of coding, I enjoy researching emerging technologies, exploring AI trends, and finding new ways to grow as an engineer.
+🚀 Always learning, researching, and building practical AI solutions.
+
+---
+
+## 🔬 Research Interests
+
+- Machine Learning & Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Federated Learning
+- Explainable AI
+- Privacy-Preserving AI
 
 ---
 
@@ -32,5 +44,4 @@ Penultimate-Year Computer Engineering Student | AI/ML | Data Analytics | Web Dev
 
 
 ## 📫 Connect With Me
-Linkedin : https://www.linkedin.com/in/komal-kumari-a10476289/
-
+Linkedin :[LinkedIn](https://www.linkedin.com/in/komal-kumari-a10476289/ )
