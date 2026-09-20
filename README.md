@@ -51,15 +51,10 @@ I enjoy building and researching AI solutions in **Machine Learning, Deep Learni
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=0Komal01&show_icons=true&hide_border=true&count_private=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Komal01&layout=compact&hide_border=true" height="180" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=0Komal01&hide_border=true" height="180" />
 
 </div>
+
 ---
 
 
