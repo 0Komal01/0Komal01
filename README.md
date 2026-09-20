@@ -42,6 +42,27 @@ I enjoy building and researching AI solutions in **Machine Learning, Deep Learni
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
+---
+## 📊 GitHub Activity
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=0Komal01&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=0Komal01&show_icons=true&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Komal01&layout=compact&hide_border=true" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0Komal01&hide_border=true" height="180"/>
+
+</div>
+
+---
+
 
 ## 📫 Connect With Me
 Linkedin :[LinkedIn](https://www.linkedin.com/in/komal-kumari-a10476289/ )
